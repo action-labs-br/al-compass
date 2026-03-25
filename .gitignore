@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.db
+chroma_db/
+*.pkl
+*.joblib
+.ipynb_checkpoints/
+.claude/
+docs/plans/
